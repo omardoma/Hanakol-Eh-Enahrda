@@ -1,8 +1,8 @@
 # Hanakol-Eh-Enahrda
 
-Eclipse Java Project
+A roulette for Egyptian fast food to choose what to eat in Java & Swing.
 
-How to run? 
+## How to run? 
 
 Import Project in eclipse
 
